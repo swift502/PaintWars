@@ -2,7 +2,7 @@
 
 Kill enemies and descend downwards to increase your level, score multiplier and difficulty.
 
-One of my first programming projects made for a school assignment in October 2015. The code is terrible and is likely of no use to anyone.
+One of my first programming projects made for a school assignment in October 2015. The code is terrible and is likely of no use to anyone. Published for archival reasons.
 
 ![](images/preview.png)
 
