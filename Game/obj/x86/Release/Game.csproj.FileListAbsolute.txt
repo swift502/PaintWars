@@ -1,0 +1,7 @@
+C:\Users\Honza\Documents\Visual Studio 2010\Projects\Game\Game\bin\Release\Game.exe
+C:\Users\Honza\Documents\Visual Studio 2010\Projects\Game\Game\bin\Release\Game.pdb
+C:\Users\Honza\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Release\Game.Form1.resources
+C:\Users\Honza\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Release\Game.Properties.Resources.resources
+C:\Users\Honza\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Release\Game.csproj.GenerateResource.Cache
+C:\Users\Honza\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Release\Game.exe
+C:\Users\Honza\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Release\Game.pdb
