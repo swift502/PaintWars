@@ -1,6 +1,6 @@
 # Paint Wars
 
-Kill enemies and descend downwards to increase your level, score multiplier and difficulty.
+Kill enemies and descend downwards to increase your level, score multiplier and difficulty. Enemies drop health pick-ups when killed.
 
 One of my first programming projects made for a school assignment in October 2015. The code is terrible and is likely of no use to anyone. Published for archival reasons.
 
